@@ -3,7 +3,7 @@
     <ul>
         <li>O desafio foi realizado utilizando um projeto que está sendo desenvolvido em equipe. </li>
         <li>As etapas para execução deste seguiram o que foi mostrado em aula, no que se refere a utilização do SQS.</li>
-        <li>No projeto foram realizados: o envio, o recebimento e a exclusão de mensagens via SQS.</li>
+        <li>No projeto foram realizados: o envio, o recebimento e a exclusão de mensagens.</li>
         <li>A etapa do projeto desenvolvida nesse repositório, diz respeito a "Transação" dentro do ecossistema de um ecommerce.</li>
     </ul>
 
