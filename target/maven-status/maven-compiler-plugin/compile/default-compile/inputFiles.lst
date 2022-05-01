@@ -1,0 +1,8 @@
+/Users/yhaohannah.pamela/Documents/gama-academy/modulo2/aws/desafios/aws_sqs_consomer/src/main/java/br/com/ecommerce_sqs/service/SQSService.java
+/Users/yhaohannah.pamela/Documents/gama-academy/modulo2/aws/desafios/aws_sqs_consomer/src/main/java/br/com/ecommerce_sqs/service/Authentication.java
+/Users/yhaohannah.pamela/Documents/gama-academy/modulo2/aws/desafios/aws_sqs_consomer/src/main/java/br/com/ecommerce_sqs/service/DeleteMessage.java
+/Users/yhaohannah.pamela/Documents/gama-academy/modulo2/aws/desafios/aws_sqs_consomer/src/main/java/br/com/ecommerce_sqs/service/ReceiveMessage.java
+/Users/yhaohannah.pamela/Documents/gama-academy/modulo2/aws/desafios/aws_sqs_consomer/src/main/java/br/com/ecommerce_sqs/service/SendMessage.java
+/Users/yhaohannah.pamela/Documents/gama-academy/modulo2/aws/desafios/aws_sqs_consomer/src/main/java/br/com/ecommerce_sqs/dto/InfoPedidoDTO.java
+/Users/yhaohannah.pamela/Documents/gama-academy/modulo2/aws/desafios/aws_sqs_consomer/src/main/java/br/com/ecommerce_sqs/App.java
+/Users/yhaohannah.pamela/Documents/gama-academy/modulo2/aws/desafios/aws_sqs_consomer/src/main/java/br/com/ecommerce_sqs/service/Configurations.java

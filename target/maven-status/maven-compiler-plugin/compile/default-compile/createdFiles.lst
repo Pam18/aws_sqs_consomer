@@ -1,0 +1,10 @@
+br/com/ecommerce_sqs/service/SQSService.class
+br/com/ecommerce_sqs/service/SendMessage.class
+br/com/ecommerce_sqs/dto/InfoPedidoDTO.class
+br/com/ecommerce_sqs/App.class
+br/com/ecommerce_sqs/service/ReceiveMessage.class
+br/com/ecommerce_sqs/service/Authentication.class
+br/com/ecommerce_sqs/service/Configurations.class
+br/com/ecommerce_sqs/service/Authentication$1$1.class
+br/com/ecommerce_sqs/service/Authentication$1.class
+br/com/ecommerce_sqs/service/DeleteMessage.class
