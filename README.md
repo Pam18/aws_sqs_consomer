@@ -10,6 +10,6 @@
 2. <br>
     <ul>
         <li>O SNS é um serviço de mensageria, no qual o destinatário é adicionado a um endpoint e a mensagem é enviada a esse destinatário, sendo via email, função lambda, SMS ou SQS.</li>
-        <li>O SQS é um complemento desse serviço, o qual disponibiliza um sistema de filas para envio dessas mensagens e permite o desacoplamento dos serviços.</li>
+        <li>O SQS é um complemento desse serviço, tendo em vista que disponibiliza um sistema de filas para envio dessas mensagens e permite o desacoplamento dos componentes AWS.</li>
     </ul>
     
